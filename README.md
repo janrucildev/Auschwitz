@@ -15,4 +15,4 @@ This has purely documentation character.
 
 PS: I am partly Jew myself
 
-![alt text] (https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#/media/File:Auschwitz_I_(22_May_2010).jpg)
+<img src="https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#/media/File:Auschwitz_I_(22_May_2010).jpg" width="100%"></img>
