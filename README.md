@@ -14,3 +14,5 @@ I tried to depict Auschwitz as realistic as possible. This includes the building
 This has purely documentation character.
 
 PS: I am partly Jew myself
+
+![alt text] (https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#/media/File:Auschwitz_I_(22_May_2010).jpg)
